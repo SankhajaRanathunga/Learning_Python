@@ -1,4 +1,6 @@
 #level 1
+import math
+
 print(1+1)
 print(2-1)
 print(2*3)
@@ -19,3 +21,9 @@ print(type(['Asabeneh']))
 print(type("my name is saka"))
 print(type("My family name is Ranathunga"))
 print(type("im from uk"))
+
+x1 ,y1 = 2,3
+x2 , y2 = 5, 7
+
+z =(x2-x1)**2 + (y2-y1)**2
+print(math.sqrt(z))    

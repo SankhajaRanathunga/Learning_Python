@@ -1,0 +1,21 @@
+#level 1
+print(1+1)
+print(2-1)
+print(2*3)
+print(23%2)
+print(2**3)
+print(2//3)
+
+print("my name is saka")
+print("My family name is Ranathunga")
+print("im from uk")
+print("im enjoying 30 days of python")
+
+print(type(10))
+print(type(9.8))
+print(type(3.14))
+print(type(4-4j))
+print(type(['Asabeneh']))
+print(type("my name is saka"))
+print(type("My family name is Ranathunga"))
+print(type("im from uk"))

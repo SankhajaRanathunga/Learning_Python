@@ -77,7 +77,7 @@ print(fruits)
 # syntax
 lst = ['item1', 'item2']
 lst.remove(item)
-'''
+
 
 from operator import index
 
@@ -125,3 +125,5 @@ fruits = ['banana', 'orange', 'mango', 'lemon']
 vegetables = ['Tomato', 'Potato', 'Cabbage', 'Onion', 'Carrot']
 fruits.extend(vegetables)
 print('Fruits and vegetables:', fruits ) # Fruits and vegetables: ['banana', 'orange', 'mango', 'lemon', 'Tomato', 'Potato', 'Cabbage', 'Onion', 'Carrot']
+
+'''
